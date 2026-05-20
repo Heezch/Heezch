@@ -19,7 +19,7 @@ Computational scientist working at the intersection of molecular simulation, mac
 <td width="50%" valign="top">
 
 ### Flow Matching for Transition Path Sampling
-Class-conditional generative models for identifying stable states in high-dimensional conformational landscapes for transition path sampling.
+Class-conditional generative models for identifying stable states in high-dimensional conformational landscapes.
 
 ### Reinforcement Learning for Molecular Dynamics
 RL-driven protocols for minimal-work non-equilibrium simulations and adaptive control of sampling trajectories.
