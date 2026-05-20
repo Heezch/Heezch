@@ -1,28 +1,78 @@
-### Hi, I'm Thor van Heesch
+<div align="center">
 
-Postdoctoral researcher at the University of Amsterdam working at the intersection of **molecular simulation**, **machine learning**, and **statistical mechanics**. I build physics-grounded methods and the software infrastructure to make them usable — enhanced sampling, flow matching, reinforcement learning, non-equilibrium estimators.
+# Thor van Heesch
 
-Amsterdam &nbsp;·&nbsp; thorvanheezch@gmail.com &nbsp;·&nbsp; [Google Scholar]([https://scholar.google.com](https://scholar.google.com/citations?user=J7E20QoAAAAJ&hl=nl)) &nbsp;·&nbsp; [LinkedIn](www.linkedin.com/in/thor-van-heesch-384476230)
+Postdoctoral researcher at the University of Amsterdam working at the intersection of **molecular simulation**, **machine learning**, and **statistical mechanics**. I develop physics-grounded methods and research software for enhanced sampling, flow matching, reinforcement learning, and non-equilibrium statistical mechanics.
 
----
+<p>
+  <a href="https://scholar.google.com/citations?user=J7E20QoAAAAJ&hl=nl">Google Scholar</a> •
+  <a href="https://www.linkedin.com/in/thor-van-heesch-384476230">LinkedIn</a> 
+</p>
 
-#### Currently working on
-
-- **Flow matching for transition path sampling** — class-conditional generative models to define stable states in high-dimensional conformational spaces
-- **RL for molecular dynamics** — reinforcement learning protocols for minimal-work non-equilibrium simulations
-- **Iterative Jarzynski path refinement** — free-energy path convergence via repeated non-equilibrium reweighting
-- **DNA groove specificity** — how sequence recognition emerges from minimal peptide motifs
+</div>
 
 ---
 
-#### Featured project
+## Research Focus
 
-**[mdna](https://github.com/Heezch/mdna)** &nbsp;·&nbsp; *Published in Nucleic Acids Research (2026)*
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Python library for building, modifying, and analyzing double-stranded DNA at atomic resolution. Spline-based construction, Monte Carlo relaxation, full rigid-base parameter analysis (shift/slide/rise/tilt/roll/twist), linking number calculations, and seamless OpenMM/MDTraj integration. Used by multiple international research groups; integrated into curricula from undergraduate mathematics to PhD biochemistry.
+### Flow Matching for Transition Path Sampling
+Class-conditional generative models for identifying stable states in high-dimensional conformational landscapes.
 
-```
+### Reinforcement Learning for Molecular Dynamics
+RL-driven protocols for minimal-work non-equilibrium simulations and adaptive control of sampling trajectories.
+
+</td>
+<td width="50%" valign="top">
+
+### Iterative Jarzynski Path Refinement
+Free-energy path convergence through repeated non-equilibrium reweighting and trajectory refinement.
+
+### DNA Groove Specificity
+Mechanistic origins of sequence recognition from minimal peptide motifs and coarse-grained interaction models.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Featured Project
+
+### [`mdna`](https://github.com/Heezch/mdna)
+
+*Published in Nucleic Acids Research (2026)*
+
+`mdna` is a Python library for constructing, modifying, and analyzing double-stranded DNA at atomic resolution.
+
+Core features include:
+
+- spline-based DNA construction
+- Monte Carlo relaxation
+- rigid-base parameter analysis  
+  (`shift`, `slide`, `rise`, `tilt`, `roll`, `twist`)
+- linking number and topological analysis
+- OpenMM and MDTraj integration
+- research and teaching applications across multiple institutions
+
+```bash
 pip install mdna
 ```
 
-📖 [Documentation](https://heezch.github.io/mdna/) &nbsp;·&nbsp; 📄 [Paper](https://doi.org/10.1101/2025.07.26.666940)
+<p>
+  <a href="https://heezch.github.io/mdna/">Documentation</a> •
+  <a href="https://doi.org/10.1101/2025.07.26.666940">Paper</a>
+</p>
+
+---
+
+## Technical Areas
+
+```text
+Molecular Dynamics • Enhanced Sampling • Statistical Mechanics
+Flow Matching • Reinforcement Learning • Generative Modeling
+Free Energy Methods • Non-Equilibrium Estimators • Scientific Software
+```
