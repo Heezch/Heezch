@@ -2,7 +2,7 @@
 
 # Thor van Heesch
 
-Computational scientist and research software engineer working at the intersection of molecular simulation, machine learning, and statistical mechanics. In research I focus on building software that other scientists can actually use and build on.
+Computational scientist working at the intersection of molecular simulation, machine learning, and statistical mechanics. I focus on building software that other scientists can actually use and build on. 
 
 <p>
   <a href="https://scholar.google.com/citations?user=J7E20QoAAAAJ&hl=nl">Google Scholar</a> •
@@ -12,8 +12,7 @@ Computational scientist and research software engineer working at the intersecti
 </div>
 
 ---
-
-## Research Focus
+## Current Research
 
 <table>
 <tr>
